@@ -1,0 +1,38 @@
+my : margin y (top to bottom)
+d : display
+p  : padding
+bg : background color
+classs="display-5"
+class="h3"
+class="container border border-success"
+class="text-start"
+class="text-end"
+class="text-center"
+class="text-start text-md-center text-lg-end"  // zoom in see difference
+class="container"  // space left and write
+class="text-nowrap" // only horizontal text
+class="text-wrap" // default one by one
+class="text-decoration-underline"
+class="text-decoration-line-through"
+class="text-decoration-none"
+class="text-uppercase" //lowercase capitalize
+<body class="bp-5">  //break point see bottom or footer
+sm-small
+lg-large
+md-mediuam
+xl-extra large
+xxl - extra extra large
+fs:1 //font size
+fw:bold //bolder light lighter normal 
+lh:1 // sm lg base // lh:line height using paragraph
+==========================
+<div class="text-danger">
+this is paragraph
+<a href="" class="text-reset">link</a>
+</div>
+note: remove text-reset see the difference : only red colore apply to paragraph not a link
+=================
+class="text-primary"  //secondary dart info success danger warning ..
+bg-opacity-10
+text-opacity-25
+bg-danger bg-gradient  // red and light red
