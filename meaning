@@ -36,3 +36,18 @@ class="text-primary"  //secondary dart info success danger warning ..
 bg-opacity-10
 text-opacity-25
 bg-danger bg-gradient  // red and light red
+
+spacing: (padding p , margin m)
+================================
+t - top (ex:mt,pt)
+b - bottom (ex:mb,pb)
+s - start (left) ex: ms margin start (left)
+e - end (right)
+border-2 border-success
+mx  - margin left right
+my - margin top bottom
+px,py - padding left right,top bottom
+ps pe ms me   padding left, padding right,margin left,margin right
+mx-auto (margin left right - center position)
+border-bottom-0
+rounded
