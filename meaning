@@ -51,3 +51,21 @@ ps pe ms me   padding left, padding right,margin left,margin right
 mx-auto (margin left right - center position)
 border-bottom-0
 rounded
+rounded-top rounded-start rounded-bottom rounded-end
+rounded-circle  rounded-pill (rectangle corner)
+rounded-0 1 2 3 4 5
+===================display===============
+d-none    ex:<div class="d-none">welcome</div>
+d-inline
+d-block
+d-flex
+d-md-   (md medium)
+======================position=============
+<div class="position-relative">
+<div class="position-absolute top-0 start-0></div>
+<div class="position-absolute top-0 end-0></div>
+<div class="position-absolute top-50 start-0></div>
+<div class="position-absolute bottom-50 end-50 translate-middle-x"></div>  // 50 means 50%
+<div class="position-absolute bottom-0 start-0></div>
+<div class="position-absolute bottom-0 end-0></div>
+</div>
