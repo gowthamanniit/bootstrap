@@ -69,3 +69,39 @@ d-md-   (md medium)
 <div class="position-absolute bottom-0 start-0></div>
 <div class="position-absolute bottom-0 end-0></div>
 </div>
+
+======================
+position:fixed top-0 end-0
+position:sticky top-0
+====================sizing=========
+w-25    // width:25%
+h-25    //height:25%
+note: span not work w & h
+===================================
+class="img-fluid"  //responsive images only screen inside
+img-fluid img-thumbnail rounded-circle
+mx-auto  // complete center margin left and right
+shadow-lg sm none md
+==================================
+float-start end none
+============================
+<p class="user-select-all">test</p>
+<p class="user-select-auto">test</p>
+<p class="user-select-none">test</p>   // we can't select text
+===========================
+overflow-hidden auto scroll
+=======================
+<div class="bg-danger visible">text show</div>
+<div class="bg-warning invisible">invisible text</div>
+=========================
+<span class="visually-hidden">.........</span>
+======================
+<span class="align-top">....</span>
+    align-----> top, middle, bottom,baseline, text-top, text-bottom
+========================
+<p class="text-truncate" style="width:100px">.............</p>  // show ...
+
+=====================
+<div class="ratio ratio-1x1"> <iframe src="youtube link"></div>
+4x3  16x9 21x9
+===================================
